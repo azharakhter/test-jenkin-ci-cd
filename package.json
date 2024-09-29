@@ -5,7 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "mocha"
+    "test": "npx mocha"
+    
   },
   "repository": {
     "type": "git",
