@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "npx mocha",
-     "start": "node app.js"
-    
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +22,8 @@
   "devDependencies": {
     "chai": "^5.1.1",
     "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
   }
 }
